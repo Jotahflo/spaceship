@@ -1,4 +1,4 @@
-let Terminado = {
+var Terminado = {
   preload: function() {
     //cargar los elementos
     juego.load.image("nave", "img/nave.png");
