@@ -1,2 +1,2 @@
 # spaceship
-Juego de naves con la finalidad de disparar a los meteoritos
+Ship game with the purpose of shooting meteorites
